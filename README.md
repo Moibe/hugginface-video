@@ -1,5 +1,5 @@
 ---
-title: HF-Pipeline-NS
+title: HF-Pipeline-2.0
 emoji: 📹
 colorFrom: blue
 colorTo: yellow
